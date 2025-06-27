@@ -106,7 +106,5 @@ Experiments involved adjustments to:
 
 ## Author
 
-**Aditya Sinha**  
+**Ram Kishore KV*  
 M.S. in Data Science @ Drexel University  
-Research Assistant, Urban Health Collaborative  
-Email: as5869@drexel.edu
